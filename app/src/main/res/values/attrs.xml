@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MProgressView">
+        <attr name="pro_color" format="color|reference"/>
+        <attr name="pro_size" format="dimension"/>
+        <attr name="pro_txt" format="string"/>
+        <attr name="pro_paddingLeft" format="dimension"/>
+    </declare-styleable>
+
+</resources>
